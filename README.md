@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">Hi, I’m Mikhail - Frontend Developer (React, Redux), growing into Full-Stack</div>
+### <div align="center">Hi, I’m Mikhail - Full-Stack JavaScript Developer</div>
 
 <br/>
 
