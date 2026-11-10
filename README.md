@@ -38,6 +38,15 @@
   <a href="https://redux.js.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
   </a>  
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" />
+  </a>  
+  <a href="https://zustand.docs.pmnd.rs/" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="50" />
+  </a>  
+  <a href="https://tanstack.com/router" target="_blank">
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/tanstack" alt="TanStack Router" height="50" />
+  </a>  
   <a href="https://jestjs.io/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
   </a>  
@@ -55,7 +64,7 @@
   </a>
 
   <a href="https://nestjs.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs-plain.svg" alt="NestJS" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" height="50" />
   </a>
 
   <a href="https://www.postgresql.org/">
@@ -67,11 +76,11 @@
   </a>
 
   <a href="https://typeorm.io/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typeorm.svg" alt="TypeORM" height="50" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/typeorm" alt="TypeORM" height="50" />
   </a>
 
   <a href="https://mongoosejs.com/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongoosejs.svg" alt="Mongoose" height="50" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/mongoose" alt="Mongoose" height="50" />
   </a>
 </div>
 
@@ -87,11 +96,11 @@
   </a>
 
   <a href="https://swagger.io/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swagger.svg" alt="Swagger" height="50" />
+    <img style="margin: 10px" src="https://cdn.simpleicons.org/swagger" alt="Swagger" height="50" />
   </a>
 
   <a href="https://eslint.org/">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/eslint-original-wordmark.svg" alt="ESLint" height="50" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" height="50" />
   </a>
 </div>
 
